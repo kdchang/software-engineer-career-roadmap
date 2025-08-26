@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoftware_engineer_career_roadmap=self.webpackChunksoftware_engineer_career_roadmap||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/software-engineer-career-roadmap/blog","blogTitle":"Blog","authorsListPath":"/software-engineer-career-roadmap/blog/authors"}')}}]);
