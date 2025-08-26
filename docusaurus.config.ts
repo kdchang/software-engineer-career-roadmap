@@ -89,7 +89,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: "Software Engineer Career Roadmap",
+      title: "軟體工程師職涯學習地圖",
       // logo: {
       //   alt: 'My Site Logo',
       //   src: 'img/logo.svg',
@@ -102,7 +102,7 @@ const config: Config = {
           label: "Tutorial",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/kdchang/software-engineer-career-roadmap",
           label: "GitHub",
           position: "right",
         },
@@ -147,7 +147,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/kdchang/software-engineer-career-roadmap",
             },
           ],
         },

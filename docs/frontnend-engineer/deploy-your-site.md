@@ -4,6 +4,13 @@ sidebar_position: 5
 
 # Deploy your site
 
+<span className="badge badge--success">Junior</span>
+<span className="badge badge--info">Middle</span>
+<span className="badge badge--primary">Senior</span>
+<span className="badge badge--warning">Staff</span>
+
+---
+
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
 It builds your site as simple **static HTML, JavaScript and CSS files**.
