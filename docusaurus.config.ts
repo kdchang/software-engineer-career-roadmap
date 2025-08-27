@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "軟體工程師職涯學習地圖",
+  title: "SECR 軟體工程師職涯學習地圖",
   tagline: "Learn with Software Engineer Career Roadmap.",
   favicon: "img/favicon.ico",
 
@@ -89,7 +89,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: "軟體工程師職涯學習地圖",
+      title: "SECR 軟體工程師職涯學習地圖",
       // logo: {
       //   alt: 'My Site Logo',
       //   src: 'img/logo.svg',
