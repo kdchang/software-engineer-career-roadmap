@@ -2,17 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Roadmap Intro
 
 # Roles
 
 1. Frontend Engineer
 2. Backend Engineer
 3. Software Engineer
-4. Technical Program Manager
-5. Architect
-6. Engineering Manager
-7. Product Manager
+4. Full Stack Engineer
+5. Engineering Manager
+6. Software Architect
+7. Technical Program Manager
+8. Product Manager
 
 # Docs
 
