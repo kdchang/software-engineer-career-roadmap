@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 學習地圖
 
-## Internet 網路與瀏覽器基礎
+## Internet 網路與瀏覽器概論
 
 ## HTML 基礎
 
@@ -26,6 +26,18 @@ sidebar_position: 1
 
 ## Framework/Library 前端框架/函式庫
 
+## Single Page Application（SPA）
+
+## SSR/SSG
+
+## Data Visualization
+
+## 資料傳輸
+
+## Authentication 策略
+
+## Browser Datastore
+
 ## TypeScript
 
 ## Lint 程式碼規範/格式化
@@ -34,21 +46,19 @@ sidebar_position: 1
 
 ## Web Security 資訊安全
 
+## Monitor/Logging
+
 ## Testing 測試
+
+# 專案實作
 
 ## Web Components
 
-## Authentication 策略
-
-## 資料傳輸
-
-## 效能優化
+## Performance 效能優化
 
 ## Web Components
 
 ## Browser APIs
-
-## SSR/SSG
 
 ## PWAs
 

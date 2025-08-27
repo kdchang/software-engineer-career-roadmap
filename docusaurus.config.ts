@@ -97,9 +97,9 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "roadmapSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Roadmap",
         },
         {
           href: "https://github.com/kdchang/software-engineer-career-roadmap",
